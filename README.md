@@ -56,8 +56,7 @@
 </br>
 
 ### My profiles & Contacts
-- ◂ [Linkedin](https://sa.linkedin.com/in/rakan-al-khaled-50416a209?trk=public_profile_browsemap)
-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- ◂ [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://sa.linkedin.com/in/rakan-al-khaled-50416a209?trk=public_profile_browsemap]
 - ◂ [YouTube](https://youtu.be/krCkGpKuo6w)
 
 
