@@ -56,7 +56,8 @@
 </br>
 
 ### My profiles & Contacts
-- ◂ [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 - ◂ [YouTube](https://youtu.be/krCkGpKuo6w)
