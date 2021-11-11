@@ -28,7 +28,7 @@
 #### Inspiring, ambitious, with far-term goals, with expertise and skills, lover of science and development, and self-development, holder of several global and local achievements and medals of thanks and appreciation, invitations and honors, such as ministries, universities and giant companies,
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Al-khalid/Sheikh-Rakan/blob/main/assets/agif1opt.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Al-khalid/Al-khalid/blob/main/assets/giphy.gif">
 
 </br>
 </br>
@@ -50,7 +50,7 @@
 #### during Over the next five years, I'll make an imprint me on the global and local levels
 #### I Don't admit that the impossible exists
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Al-khalid/Sheikh-Rakan/blob/main/assets/5f81aa847fd724b6016717163003f1afc129a98a_00.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Al-khalid/Al-khalid/blob/main/assets/agif1opt.gif">
 
 </br>
 </br>
