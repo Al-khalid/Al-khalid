@@ -10,7 +10,7 @@
 - ◂ CSE
 - ◂ Bug Bounty
 - ◂ tech expert
-- ◂ Webapp Pentesting
+- ◂ PenTest
 - ◂ Networks Pentesting
 
 ### Hobbies
