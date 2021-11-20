@@ -33,13 +33,7 @@
 </br>
 </br>
 
-### Resources I Follow
-- ◂ PentesterLand
-- ◂ Medium Writeups
-- ◂ BugCrowd University
-- ◂ Twitter BugBounty Community
-- ◂ HackerOne Disclosure Rportes
-- ◂ Active BugHunter YouTube Channels
+
 
 </br>
 </br>
