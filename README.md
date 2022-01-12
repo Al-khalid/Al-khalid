@@ -1,7 +1,7 @@
 ## Al Sheikh Rakan  
 
 #### Hello everyone 
-#### Thes is  **Rakan Al-Khaled**  **a man he have with goals that embrace the sky**
+#### Thes is  **Rakan**  **a man he have with goals that embrace the sky**
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Al-khalid/Al-khalid/blob/main/assets/5f81aa847fd724b6016717163003f1afc129a98a_00.gif">
 
@@ -51,7 +51,7 @@
 
 ### My profiles & Contacts
 
-- ◂ [linkedin](https://sa.linkedin.com/in/rakan-al-khaled-50416a209?trk=public_profile_browsemap)
+- ◂ [linkedin]()
 
 - ◂ [YouTube](https://youtu.be/krCkGpKuo6w)
 
